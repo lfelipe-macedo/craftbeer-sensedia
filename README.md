@@ -3,3 +3,9 @@
 Projeto realizado para o processo da Sensedia com o objetivo de avaliar o desenvolvimento 
 de uma aplicação java utilizando Spring e APIs.
 
+### Scripts
+    craftbeer
+    |
+    |com.beerhouse
+    |    |scripts
+    |    |___scripts.sql
